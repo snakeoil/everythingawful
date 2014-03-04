@@ -9,7 +9,7 @@ module.exports = [
   "nexxy",
   "mikeal",
   "TC39",
-  "tjhollowaychuk",
+  "tjholowaychuk",
   "ashkenas",
   "Douglas Crockford",
   "Mozilla",
