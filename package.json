@@ -1,0 +1,22 @@
+{
+  "name": "everythingawful",
+  "version": "0.1.0",
+  "description": "oh god somebody do something",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/snake-oil/everythingawful"
+  },
+  "keywords": [
+    "satire"
+  ],
+  "author": "Snake Oil",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/snake-oil/everythingawful/issues"
+  },
+  "homepage": "https://github.com/snake-oil/everythingawful"
+}
