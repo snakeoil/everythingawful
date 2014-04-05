@@ -13,5 +13,6 @@ module.exports = [
   "build tools",
   "Grunt",
   "Yeoman",
-  "ES6"
+  "ES6",
+  "asm.js"
 ]
