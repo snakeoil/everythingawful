@@ -14,5 +14,6 @@ module.exports = [
   "%subject% thinks %one% is better than %object%",
   "%subject% thinks %some% are better than %object%",
   "%subject% thinks %one% would be better if it used %object%",
-  "%subject% thinks %some% would be better if they used %object%"
+  "%subject% thinks %some% would be better if they used %object%",
+  "%subject% discovered that the heartbleed vulnerability affects %object%"
 ]
