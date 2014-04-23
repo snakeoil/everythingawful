@@ -13,5 +13,6 @@ module.exports = [
   "ashkenas",
   "Douglas Crockford",
   "Mozilla",
-  "Chrome team"
+  "Chrome team",
+  "Rick Waldron"
 ]

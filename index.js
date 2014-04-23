@@ -1,4 +1,6 @@
 /* jshint asi: true */ // Deal with it, Crockford
+"lol strict"; //I'm not even sorry
+
 var deck = require('deck')
 
 var subjects = deck.shuffle(require('./subjects'))
