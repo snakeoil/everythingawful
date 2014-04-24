@@ -1,5 +1,6 @@
 /* jshint asi: true */ // Deal with it, Crockford
 "lol strict"; //I'm not even sorry
+"act casual"; //stay cool
 
 var deck = require('deck')
 
